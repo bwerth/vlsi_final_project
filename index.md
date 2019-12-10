@@ -12,3 +12,11 @@ Although there are prebuilt algorithms and libraries to support even beginners i
 Figure 1. A side by side comparison of the ASIC and FPGA development processes as set out by Spartan. It is important to note that companies typically have specific design pipelines for both types of development using their resources and platforms. This is just an example of one.
 
 Following the development of the cell library, a technology-dependent netlist is generated through logic synthesis. During this step, technology mapping happens, allowing the synthesizer to perform technology-independent and technology-dependent optimizations. With the actual netlist optimally generated, physical placement and layout of logic cells occurs. In this part of the process, primary tasks include system partitioning and floorplanning. With low-level hardware design and layout determined, three different types of system validation are performed to confirm the functionality and performance of the designed chip(s). These types of validation include post-layout static timing analysis, physical verification of the layout, and simulation of the final design. 
+
+On the pages that follow, we will elaborate on the critical steps in VLSI highlighted above. We will also discuss design considerations with the intention of guiding the chip design process at both a high and low level. Questions and comments on this content should be directed to bryan.m.werth@gmail.com. We are excited to hear any feedback that readers might have.
+
+##[Cell Library Development](cell_library.md)
+##[Logic Synthesis](logic_synthesis.md)
+##[Physical Layout](physical_layout.md)
+##[Conclusions](conclusions.md)
+##[References](references.md)
