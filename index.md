@@ -15,8 +15,8 @@ Following the development of the cell library, a technology-dependent netlist is
 
 On the pages that follow, we will elaborate on the critical steps in VLSI highlighted above. We will also discuss design considerations with the intention of guiding the chip design process at both a high and low level. Questions and comments on this content should be directed to bryan.m.werth@gmail.com. We are excited to hear any feedback that readers might have.
 
-##[Cell Library Development](cell_library.md)
-##[Logic Synthesis](logic_synthesis.md)
-##[Physical Layout](physical_layout.md)
-##[Conclusions](conclusions.md)
-##[References](references.md)
+## [Cell Library Development](cell_library.md)
+## [Logic Synthesis](logic_synthesis.md)
+## [Physical Layout](physical_layout.md)
+## [Conclusions](conclusions.md)
+## [References](references.md)
