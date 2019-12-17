@@ -1,4 +1,4 @@
-## Design Brief
+## Logic Synthesis
 
 Logic synthesis is the process by which a netlist is produced from HDL. This is also the part of the chip design process where the cell library is integrated with the netlist and netlist optimizations occur. In a general sense, logic synthesis produces a result that is ready for physical layout and validation. It is important to note that it is impossible to guarantee an optimal netlist.
 
