@@ -1,4 +1,4 @@
-## Design Brief
+## Conclusions
 
 FPGAs are commonly used because they are useful for education, iterative testing, and early design validation. In addition, for small scale applications, they can be a lot cheaper to manufacture than ASICs. Finally, the time to market is a lot shorter than with ASICs. However, at scale ASICs are a lot cheaper, perform better, consume less power, and are smaller. Depending on the application, either of these solutions can be appropriate (if anything, some combination of both is appropriate).
 
